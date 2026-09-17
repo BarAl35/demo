@@ -7,6 +7,7 @@ public class ArraySorter {
         int[] numbers = {5, 3, 8, 1, 9, 2};
         Arrays.sort(numbers);
         System.out.println("Sorted array: " + Arrays.toString(numbers));
+        System.out.println("test");
       
     }
 }
